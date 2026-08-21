@@ -17,7 +17,7 @@ to run — unless you want the autonomous version (see Roadmap).
 
 ## The 60-second setup (no GitHub needed)
 
-Paste this into Claude:
+Paste this into Claude or ChatGPT:
 
 ```
 Fetch https://tally.markets/desk.md and set up my trading desk exactly
@@ -25,8 +25,8 @@ as it describes. Walk me through each step, starting with the
 connectors.
 ```
 
-Claude fetches the desk file and installs the rest with you: both
-connectors, the safety defaults, the project, your first checkup.
+Your assistant fetches the desk file and installs the rest with you:
+both connectors, the safety defaults, the project, your first checkup.
 
 ---
 
