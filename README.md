@@ -32,7 +32,7 @@ both connectors, the safety defaults, the project, your first checkup.
 
 ## The manual path (5 minutes)
 
-**1. Add the risk officer** — Settings → Connectors → Add custom
+**1. Add Tally** — Settings → Connectors → Add custom
 connector:
 
 ```
