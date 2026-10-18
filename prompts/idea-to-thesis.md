@@ -13,5 +13,5 @@ catalyst window. Tell me anything that resists being written down that
 precisely — that's a hole in the idea, not in the form.
 ```
 
-The thesis then cools off for 24 hours before it can arm. That wait is
-the feature.
+Choose whether to use the optional 24-hour cooling-off before saving. A complete
+thesis without cooling-off is immediately ready as a journal record, not an order.

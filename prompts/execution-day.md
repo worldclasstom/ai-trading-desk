@@ -1,14 +1,10 @@
-# Execution day
+# Entry review
 
-Run when the cooling-off has passed and you intend to enter.
+Use before a separate trading decision:
 
-```
-Check my thesis "[title]" in Tally: confirm it is armed, no criterion
-has fired, and the catalyst window is still open. If everything is
-clean, restate the thesis, the exit rules, and the size it specifies —
-then stage the order for my approval. If anything is not clean, tell me
-what, and we stop there.
-```
+> Check my thesis "[title]" in Tally. Review journal readiness, any fired criteria,
+> the catalyst window, evidence freshness, risk budget and written exit rules.
+> Explain unresolved issues and contrary evidence. Do not stage or place an order.
 
-Orders go through the broker connector only, with placement set to
-needs-approval. If Tally says the thesis isn't ready, that answer stands.
+An armed thesis is a journal status, not a recommendation or trading authorization.
+Respect cooling-off if the user selected it. Actual execution remains separate.

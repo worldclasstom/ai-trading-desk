@@ -1,16 +1,8 @@
 # Morning checkup
 
-Run daily, ideally on a schedule, before any new-trade talk.
+Run before reviewing new ideas:
 
-```
-Run my Tally checkup: give me the monitoring status for each account and
-any anomaly alert awaiting my answer first; then, for each active
-thesis, gather fresh readings for its criteria, log them with
-record_reading, and flag any criterion that has objectively fired.
-```
+> Run my Tally checkup. Start with any fired criteria or approaching deadlines. Review the evidence for and against each active thesis, distinguish missing data from unchanged conditions, and help me record what changed and why.
 
-This is the same prompt Tally's own `morning-checkup` MCP prompt runs —
-using the identical wording keeps a scheduled task and a manual run
-interchangeable. The monitoring itself runs on Tally's server every hour
-whether or not this schedule exists; the schedule is how you hear the
-morning read.
+This matches Tally's `morning-checkup` prompt. Scheduling depends on the client,
+plan and permissions. Ask which observations were verified and when.
