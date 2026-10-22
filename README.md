@@ -25,7 +25,7 @@ The hosted `get_started` response is the current protocol.
 | [Close-out](prompts/close-out.md) | Record a close and review the process |
 
 Free includes 3 active theses (drafts included) and 10 total created. Sentinel
-is $4.99/month or $49/year. Saved history stays readable, reviewable and closable.
+is $9/month or $49/year. Saved history stays readable, reviewable and closable.
 Cooling-off is optional. Theses and closed records stay private unless you
 explicitly publish a receipt. Scheduling depends on the client; monitoring
 covers supported sources and cannot guarantee every criterion is checked.
